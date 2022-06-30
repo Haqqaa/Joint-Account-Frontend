@@ -19,10 +19,8 @@ Motions can be replaced or removed at any time by any joint account member; when
 Install
 git clone https://github.com/Haqqaa/Joint-Account-Frontend.git
 
-cd vite-joint-account-frontend
+cd joint-account-frontend
+npm run compile:sass
 npm install
-cd frontend
-npm install
-Run
-cd frontend
-npm run start
+Open html file and base.scss
+Run using live-server
