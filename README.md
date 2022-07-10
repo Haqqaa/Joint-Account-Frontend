@@ -25,4 +25,8 @@ npm install
 Open html file and base.scss
 Run using live-server
 ![Image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/65ab4eb29f56dcb6582bf1ee176f0bca4f339d20/Screenshot_20220615-105113_Video%20Player.jpg)
-![image][Screenshot_20220615-105113_Video Player.jpg]
+![image][https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105059_Video%20Player.jpg]
+![image][https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105045_Video%20Player.jpg]
+![image][https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105034_Video%20Player.jpg]
+![image][https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105130_Video%20Player.jpg]
+![image][https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105140_Video%20Player.jpg]
