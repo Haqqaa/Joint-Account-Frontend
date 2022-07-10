@@ -24,3 +24,4 @@ npm run compile:sass
 npm install
 Open html file and base.scss
 Run using live-server
+<img><https://github.com/Haqqaa/Joint-Account-Frontend.git/Screenshot_20220615-105034_Video Player.jpg>
