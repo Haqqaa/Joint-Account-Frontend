@@ -10,7 +10,7 @@ It includes all the frontend features
 Anyone can create a joint account.
 Joint account makers can specify who can vote and the approval threshold to move funds.
 Joint accounts can hold multiple token types.
-Joint account members can propose a motion to move a specific token type and amount to a specific address.
+Joint account members cn propose a motion to move a specific token type and amount to a specific address.
 Joint account members can vote to pass the motion or not (not voting counts as rejecting the motion).
 If the approval threshold to pass the motion is met, the transfer is executed and then the motion and votes are reset.
 Motions can be replaced or removed at any time by any joint account member; when this happens, votes are reset.
@@ -24,4 +24,4 @@ npm run compile:sass
 npm install
 Open html file and base.scss
 Run using live-server
-<img src="Joint-Account-Frontend/Screenshot (135).png" alt="My cool logo"/>
+![Image](Screenshot(135).png)
