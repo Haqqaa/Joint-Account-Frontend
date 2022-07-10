@@ -30,3 +30,4 @@ Run using live-server
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105034_Video%20Player.jpg)
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105130_Video%20Player.jpg)
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105140_Video%20Player.jpg)
+![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/8f2a45e4fbdbb0fa5ed5058f32a46a0c3655f89a/Screenshot%20(135).png)
