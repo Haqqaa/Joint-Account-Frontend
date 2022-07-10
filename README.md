@@ -19,15 +19,20 @@ Motions can be replaced or removed at any time by any joint account member; when
 Install
 git clone https://github.com/Haqqaa/Joint-Account-Frontend.git
 
-cd joint-account-frontend
-npm run compile:sass
-npm install
-Open html file and base.scss
-Run using live-server
-![Image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/65ab4eb29f56dcb6582bf1ee176f0bca4f339d20/Screenshot_20220615-105113_Video%20Player.jpg)
-![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105059_Video%20Player.jpg)
-![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105045_Video%20Player.jpg)
+cd joint-account-frontend <br>
+npm run compile:sass <br>
+npm install <br>
+Open html file and base.scss <br>
+Run using live-server <br>
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105034_Video%20Player.jpg)
+
+![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105045_Video%20Player.jpg)
+
+![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105059_Video%20Player.jpg)
+![Image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/65ab4eb29f56dcb6582bf1ee176f0bca4f339d20/Screenshot_20220615-105113_Video%20Player.jpg)
+
+
+
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105130_Video%20Player.jpg)
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/99a4a25e07175f25b84b182a49dfd5c57d9aa13f/Screenshot_20220615-105140_Video%20Player.jpg)
 ![image](https://github.com/Haqqaa/Joint-Account-Frontend/blob/8f2a45e4fbdbb0fa5ed5058f32a46a0c3655f89a/Screenshot%20(135).png)
