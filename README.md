@@ -24,4 +24,4 @@ npm run compile:sass
 npm install
 Open html file and base.scss
 Run using live-server
-<img src="../Screenshot (135).png" alt="My cool logo"/>
+<img src="../Screenshot(135).png" alt="My cool logo"/>
